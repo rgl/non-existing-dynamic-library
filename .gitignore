@@ -1,1 +1,5 @@
-non-existing-dynamic-library-*
+/gcc-c-link/non-existing-dynamic-library-gcc-c-link
+/gcc-c-link/non-existing-dynamic-library-gcc-c-link.so
+/gcc-c-load/non-existing-dynamic-library-gcc-c-load
+bin/
+obj/
